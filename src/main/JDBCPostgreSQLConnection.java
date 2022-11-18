@@ -1,4 +1,9 @@
-package ahmadSandid_3274_JDBCPostgreSQLConnection;
+package main;
+
+/*
+ * Name: Ahmad Sandid
+ * Date: November 17, 2022
+*/
 
 import java.sql.Connection;
 import java.sql.DriverManager;
